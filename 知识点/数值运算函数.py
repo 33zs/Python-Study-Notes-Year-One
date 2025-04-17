@@ -1,0 +1,10 @@
+#数值运算函数
+"""
+abs(x)---绝对值
+divmod(x,y)----商余（x/y.x%y）
+pow(x,y,z)----幂余数(x**y)%z
+max(x1,x2,x3,...,xn)求x1到xn中的最大值
+min(x1,x2,x3,...,xn)求x1到xn中的最小值
+complex（x）将x变为复数
+"""
+print(divmod(10,3))

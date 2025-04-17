@@ -1,0 +1,11 @@
+#complex
+"""
+complex([real[,img]])
+real---int,long,float,或者字符串
+imag---int，long,float
+返回值返回一个复数
+"""
+print(complex(1,2))
+print(complex(1))
+print(complex("1"))
+print(complex("1+2j"))
